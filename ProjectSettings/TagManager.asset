@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - friendlyLaser
+  - LeftRight Border
+  - TopBottom Border
+  - Shockwave Power
+  - Machinegun Power
+  - Shield Power
+  - enemyLaser
+  - Shield
+  - Hazard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerShip
+  - EnemyShip
+  - FriendlyLaser
+  - EnemyLaser
+  - Asteroid
+  - PowerUp
+  - Background
+  - Particles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3871304501
+    locked: 0
